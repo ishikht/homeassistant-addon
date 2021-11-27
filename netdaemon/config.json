@@ -17,8 +17,8 @@
     "config:rw"
   ],
   ports:
-    - 6667/udp: 6667
-    - 6666/udp: 6666
+    6667/udp: 6667
+    6666/udp: 6666
   "ingress": true,
   "ingress_port": 1337,
   "panel_icon": "mdi:alpha-n-circle",
