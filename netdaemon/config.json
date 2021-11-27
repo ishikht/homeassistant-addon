@@ -20,8 +20,8 @@
     "6667/udp": 6667
     "6666/udp": 6666
   },
-  //"ingress": true,
-  //"ingress_port": 1337,
+  "ingress": true,
+  "ingress_port": 1337,
   "panel_icon": "mdi:alpha-n-circle",
   "panel_title": "NetDaemon Admin",
   "hassio_api": true,
