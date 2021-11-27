@@ -1,5 +1,5 @@
 {
-  "name": "NetDaemon add-on",
-  "url": "https://github.com/net-daemon/homeassistant-addon",
-  "maintainer": "Tomas Hellström (@helto4real) <tomas@joysoftware.xyz>"
+  "name": "NetDaemon (Fork) add-on",
+  "url": "https://github.com/ishikht/homeassistant-addon",
+  "maintainer": "Ivan Shikht"
 }
