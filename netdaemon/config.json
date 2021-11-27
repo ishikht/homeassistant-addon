@@ -1,5 +1,5 @@
 {
-  "name": "NetDaemon V2",
+  "name": "NetDaemon (Fork)",
   "version": "22.1.11",
   "slug": "netdaemon",
   "description": "Write automations in C# for Home Assistant. Deprecated, please upgrade to V3!",
@@ -23,7 +23,7 @@
   "hassio_api": true,
   "hassio_role": "default",
   "homeassistant_api": true,
-  "host_network": false,
+  "host_network": true,
   "options": {
     "log_level": "info",
     "log_messages": false,
